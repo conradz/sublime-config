@@ -2,14 +2,18 @@
 	"auto_upgrade_last_run": 1348579951,
 	"installed_packages":
 	[
+		"espresso-tutti-colori.tmtheme",
+		"Gist",
+		"Git",
+		"LESS",
 		"MSBuild",
 		"Package Control",
-		"Theme - Aqua",
-		"Theme - Nexus",
-		"Theme - Nil",
-		"Theme - Phoenix",
-		"Theme - Refined",
-		"Theme - Refresh",
-		"Theme - Soda"
+		"SideBarEnhancements",
+		"Stylus",
+		"Theme - Phoenix"
+	],
+	"repositories":
+	[
+		"https://github.com/mkhl/espresso-tutti-colori.tmtheme"
 	]
 }
