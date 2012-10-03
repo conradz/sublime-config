@@ -1,11 +1,17 @@
 {
 	"color_scheme": "Packages/espresso-tutti-colori.tmtheme/Espresso.tmTheme",
-	"phoenix_color_blue": true,
-	"phoenix_tabs_medium": true,
-	"theme": "Phoenix Light.sublime-theme",
-
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"phoenix_color_blue": true,
+	"phoenix_tabs_medium": true,
+	"theme": "Phoenix Light.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

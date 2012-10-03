@@ -2,18 +2,23 @@
 	"auto_upgrade_last_run": 1348579951,
 	"installed_packages":
 	[
+		"emmet-sublime",
 		"espresso-tutti-colori.tmtheme",
 		"Gist",
 		"Git",
+		"Handlebars",
+		"Jade",
 		"LESS",
 		"MSBuild",
 		"Package Control",
 		"SideBarEnhancements",
 		"Stylus",
+		"Tag",
 		"Theme - Phoenix"
 	],
 	"repositories":
 	[
-		"https://github.com/mkhl/espresso-tutti-colori.tmtheme"
+		"https://github.com/mkhl/espresso-tutti-colori.tmtheme",
+		"https://github.com/sergeche/emmet-sublime"
 	]
 }
